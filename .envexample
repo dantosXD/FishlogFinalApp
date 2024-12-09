@@ -1,0 +1,5 @@
+# PocketBase
+VITE_POCKETBASE_URL=
+
+# OpenWeather API
+VITE_OPENWEATHER_API_KEY=
